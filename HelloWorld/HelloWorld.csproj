@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>HelloWorld</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A simple app for use with the GitHub package repository.</Description>
+    <PackageIconUrl></PackageIconUrl>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/grantwinney/github-package-repo-first-try</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
