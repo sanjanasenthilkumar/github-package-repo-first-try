@@ -7,7 +7,7 @@
     <Description>A simple app for use with the GitHub package repository.</Description>
     <PackageIconUrl></PackageIconUrl>
     <PackageProjectUrl></PackageProjectUrl>
-    <RepositoryUrl>https://github.com/grantwinney/github-package-repo-first-try</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sanjanasenthilkumar/github-package-repo-first-try</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
